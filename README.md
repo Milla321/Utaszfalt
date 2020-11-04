@@ -1,0 +1,2 @@
+# Utaszfalt
+Aszfalt mennyiségének (m3)  meghatározása.  Egy 3.5 km hosszú, 9 m széles utat kell beborítani 12 cm vastag aszfalttal. 
